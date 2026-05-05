@@ -1,6 +1,5 @@
 # Finance ETL Pipeline
-A Python ETL project using the FRED API to collect economic data in JSON format.
-
+This is a small Python project where imma show how ETL works using the FRED API.... Right now, the project can connect to the api and save data as JSON files.
 ## Current Status
 - project setup completed
 - FRED API connection working
